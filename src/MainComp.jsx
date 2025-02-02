@@ -30,7 +30,7 @@ const MainComp = () => {
                 <motion.div className="mt-[20rem] w-full h-[50rem] bg-gray-400 relative flex flex-col items-center">
                     <motion.p whileInView={{scale: [1, 2, 2, 1, 1]}} transition={{duration: 2}} className="text-6xl text-blue-700 font-bold">Numero 2: Cansei kkkkkkkk</motion.p>
                     <motion.img whileInView={{transform: "rotate(360deg)"}} transition={{duration: 2}} className="w-[25rem] rounded-3xl absolute top-20 left-[30%]" src="/hqdefault.jpg"></motion.img>
-                    <motion.p whileInView={{scale: [1, 2, 2, 1, 1]}} transition={{duration: 2}} className="text-3xl text-white font-bold absolute top-[30%] left-[60%] z-10">24 anos? ta ficando véiokkkkkk</motion.p>
+                    <motion.p whileInView={{scale: [1, 2, 2, 1, 1]}} transition={{duration: 2}} className="text-3xl text-white font-bold absolute top-[30%] left-[60%] z-10">27 anos? ta ficando véiokkkkkk bença vô</motion.p>
                     <motion.img whileInView={{transform: "rotate(360deg)"}} transition={{duration: 2}} className="w-[35rem] rounded-3xl absolute top-20 right-40" src="/images (5).jpeg"></motion.img>
                     <motion.p whileInView={{scale: [1, 2, 2, 1, 1]}} transition={{duration: 2}} className="text-3xl text-white font-bold absolute top-[30%] right-[60%] z-10">Isso é só metade do tempo pra ser um dev frontend olha que legal</motion.p>
                     <motion.img whileInView={{transform: "rotate(20deg)"}} className="w-[60rem] rounded-3xl absolute top-[70%] left-40" src="/vhagar-1600x900.webp"></motion.img>
